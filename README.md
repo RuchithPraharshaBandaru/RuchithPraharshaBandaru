@@ -12,13 +12,7 @@
     🔗 <a href="https://github.com/RuchithPraharshaBandaru/SustainSwap-SwiftMart" target="_blank">GitHub Repository</a> |
     🌐 <a href="https://sustainswap-swiftmart-2.onrender.com/" target="_blank">Live Demo</a>
   </li>
-  <br/>
-   <li>
-    <b>Artisan Space</b> – 
-    A platform to connect with and source products directly from local artisans and craftspersons.<br/>
-    🔗 <a href="https://github.com/RuchithPraharshaBandaru/ArtisanSpace" target="_blank">GitHub Repository</a> |
-    🌐 <a href="https://artisanspace.onrender.com/" target="_blank">Explore</a>
-  </li>
+ 
   <br/>
   <li>
     <b>Wordlytics</b> – 
