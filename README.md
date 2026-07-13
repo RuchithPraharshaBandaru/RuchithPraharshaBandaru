@@ -1,172 +1,219 @@
-<h1 align="center">Hi 👋, I'm Ruchith Praharsha Bandaru</h1>
+<div align="center">
 
-<p align="center">
-  Computer Science Student at IIIT Sri City <br>
-  Full-Stack Developer • AI Enthusiast • Machine Learning Practitioner
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ruchith%20Praharsha%20Bandaru&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Engineering+AI%2FML-powered+products;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/>
 
-- 🎓 B.Tech in Computer Science and Engineering @ IIIT Sri City
-- 💻 Passionate about Full-Stack Development, AI Applications, and Automation Systems
-- 🤖 Exploring LLM Integration, Prompt Engineering, Machine Learning, and Computer Vision
-- 📊 Interested in building intelligent products that solve real-world problems
-- 🏆 Codeforces Peak Rating: 1360
-- 📈 Solved 350+ DSA problems across coding platforms
+![Education](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.31%2F10-7C3AED?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-8B5CF6?style=for-the-badge&logo=mapbox&logoColor=white)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/RuchithPraharshaBandaru)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchith-praharsha-bandaru)
+[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchithpraharsha.b23@iiits.in)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuchithPraharshaBandaru)
 
-### 🌟 Featured Projects
+![Profile Views](https://komarev.com/ghpvc/?username=RuchithPraharshaBandaru&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/RuchithPraharshaBandaru?style=for-the-badge&color=7c3aed&labelColor=1a1a2e)
+![Stars](https://img.shields.io/github/stars/RuchithPraharshaBandaru?style=for-the-badge&color=6d28d9&labelColor=1a1a2e)
 
-#### 🛍️ SustainSwap-SwiftMart
-Full-stack B2B garment marketplace with ML-powered product validation and automated listing verification.
-
-**Tech Stack:** React, Node.js, MongoDB, Machine Learning
-
-🔗 <a href="https://github.com/RuchithPraharshaBandaru/FDFED_Frontend">Repository</a>  
-🌐 <a href="https://fdfed-frontend.vercel.app/">Live Demo</a>
+</div>
 
 ---
 
-#### 🤖 SubDay – AI Subscription Manager
-AI-powered financial dashboard featuring bill scanning, expense tracking, forecasting, automated reminders, and a Gemini-powered assistant.
+### 🧠 About Me
 
-**Tech Stack:** React, Firebase, Google Gemini API, Machine Learning
+I'm a Computer Science undergraduate at **IIIT Sri City**, focused on building **scalable full-stack systems** and **AI/ML-powered products**. My work spans multi-tenant marketplace platforms, hybrid AI recommendation engines, and LLM-driven automation systems — engineered with a product mindset that prioritizes performance, reliability, and real-world impact.
 
-🔗 <a href="https://github.com/RuchithPraharshaBandaru/SubDay">Repository</a>  
-🌐 <a href="https://subsday-78195.web.app/">Live Demo</a>
+I care deeply about **clean architecture**, **retrieval-augmented generation**, and shipping systems that hold up under scale. I recently had a research paper on audio-in-image steganography accepted at **IEEE CVMI 2026**.
 
----
-
-#### 🎯 Wordlytics
-Wordle-inspired game with authentication, analytics, performance tracking, and leaderboard features.
-
-**Tech Stack:** Node.js, Express.js, MongoDB
-
-🔗 <a href="https://github.com/RuchithPraharshaBandaru/Wordle-Clone-with-Fullstack">Repository</a>
+```yaml
+Open To:
+  - Software Engineering Internships
+  - AI/ML Engineering Roles
+  - Full Stack Development Opportunities
+  - Research Collaborations
+```
 
 ---
 
-#### 📉 Churn Prediction
-Machine Learning model for predicting customer churn using historical customer behavior data.
+### 🛠️ Tech Stack
 
-**Tech Stack:** Python, Machine Learning, Data Analysis
+**Languages**
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![SQL](https://skillicons.dev/icons?i=mysql)
 
-🔗 <a href="https://github.com/RuchithPraharshaBandaru/Churn-Prediction">Repository</a>
+**Frontend**
+![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Redux](https://skillicons.dev/icons?i=redux)
 
----
+**Backend & Databases**
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Firebase](https://skillicons.dev/icons?i=firebase) ![GraphQL](https://skillicons.dev/icons?i=graphql)
 
-#### 🦋 Butterfly Species Detection
-CNN-based butterfly classification system enhanced with Grad-CAM visualizations for explainable AI.
-
-**Tech Stack:** Python, Deep Learning, Computer Vision
-
-🔗 <a href="https://github.com/RuchithPraharshaBandaru/Butterfly-SpeciesDectection-with-CNN-and-GradCam">Repository</a>
+**Cloud, DevOps & Tooling**
+![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman) ![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-### 🧠 Areas of Interest
+### 🤖 AI / ML Expertise
 
-- Full-Stack Development
-- Machine Learning
-- Deep Learning
-- Data Mining
-- LLM Applications
-- Prompt Engineering
-- Computer Vision
-- System Design
-- Cloud Computing
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ruchith-praharsha-bandaru" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-
-  <a href="https://codeforces.com/profile/ruchithpraharsha" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/kukkapillaxmutant/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+| Domain | Proficiency | Details |
+|---|---|---|
+| Large Language Models | ⭐⭐⭐⭐☆ | Prompt engineering, Gemini API integration, LLM-powered explanations |
+| Retrieval-Augmented Generation | ⭐⭐⭐⭐☆ | Context-aware RAG chatbots over policy/document corpora |
+| Multimodal AI | ⭐⭐⭐☆☆ | Vision LLMs + OCR for structured document extraction |
+| Recommendation Systems | ⭐⭐⭐⭐☆ | Hybrid SVD + Transformer content filtering, cold-start modelling |
+| Computer Vision | ⭐⭐⭐☆☆ | ML-powered image verification pipelines |
+| NLP & Semantic Search | ⭐⭐⭐⭐☆ | FastEmbed, FAISS, transformer embeddings |
+| Deep Learning | ⭐⭐⭐☆☆ | Model inference optimization via ONNX Runtime |
 
 ---
 
-### 💻 Full-Stack Development
+### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+<details>
+<summary><b>🛍️ SustainSwap-SwiftMart — B2B Garment Marketplace</b></summary>
+<br/>
 
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
+A large-scale full-stack B2B garment marketplace with a multi-tenant architecture supporting five distinct roles: Admin, Seller, User, Industry Buyer, and Manager.
 
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="40" height="40"/>
-  </a>
+| Metric | Detail |
+|---|---|
+| **Stack** | React, Node.js, MongoDB, REST APIs |
+| **Scale** | 5 role-specific dashboards · 10+ product categories |
+| **Performance** | Optimized responsive UI workflows and mobile usability |
+| **Security** | Role-based authentication and authorization |
+| **Impact** | ML-powered image verification reduced invalid listings and manual moderation overhead |
+| **Repository** | [GitHub](https://github.com/RuchithPraharshaBandaru/FDFED_Frontend) · [Live Demo](https://fdfed-frontend.vercel.app/) |
 
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+Designed and developed role-specific dashboards and workflows spanning inventory management, product moderation, order processing, analytics, and industry procurement — backed by a built-in support chatbot.
 
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+</details>
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-</p>
+<details>
+<summary><b>📚 StoryNest — AI-Powered Hybrid Book Recommendation Engine</b></summary>
+<br/>
+
+A microservice-based full-stack AI platform delivering hybrid book recommendations across 10,000+ titles using SVD and Transformer-based content filtering.
+
+| Metric | Detail |
+|---|---|
+| **Stack** | React, Node.js, FastAPI, MongoDB, FastEmbed, FAISS, Gemini |
+| **Scale** | 10,000+ books · 3 search modes (Keyword, Semantic, AI) |
+| **Performance** | 60%+ reduction in runtime memory via ONNX Runtime, lazy loading, artifact caching |
+| **Security** | Proxy-user modelling to safeguard cold-start recommendations |
+| **Impact** | Hybrid ranking pipeline combining 5 user signals for personalized discovery |
+| **Repository** | [GitHub](https://github.com/RuchithPraharshaBandaru/storynest-book-recommendation-system) · [Live Demo](https://storynest-curatedbooks.vercel.app/) |
+
+Combines keyword, semantic, and natural-language search modes with LLM-powered recommendation explanations for transparent, explainable discovery.
+
+</details>
+
+<details>
+<summary><b>🏥 AutoClaim AI — Insurance Claim Automation System</b></summary>
+<br/>
+
+A hybrid AI insurance adjudication engine combining deterministic rules with Google Gemini, cutting claim processing time from ~10 minutes to under 5 seconds.
+
+| Metric | Detail |
+|---|---|
+| **Stack** | Gemini, Vision LLMs, OCR, RAG, Python |
+| **Scale** | Multimodal pipeline for prescriptions and invoices |
+| **Performance** | Claim processing reduced from ~10 min to under 5 sec |
+| **Security** | Deterministic rule layer paired with AI adjudication for auditability |
+| **Impact** | Fraud detection across 4 clinical anomaly categories · 5-metric analytics dashboard |
+| **Repository** | [GitHub](https://github.com/RuchithPraharshaBandaru/AutoClaim-AI-Insurance-Automation-System) · [Live Demo](https://autoclaim-ai-insurance-automation-system.vercel.app/) |
+
+Includes a context-aware RAG chatbot for answering policy queries and explaining claim decisions using live claim context and retrieved policy documents.
+
+</details>
 
 ---
 
-### 🤖 AI & Machine Learning
+### 🏆 Achievements
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
+| Recognition | Details |
+|---|---|
+| 🎓 NTSE Stage II Qualifier | Selected among top participants from 900,000+ students nationwide |
+| 💻 Competitive Programming | Solved 350+ DSA problems · Codeforces peak rating 1360 (Top 24%) |
+| 🤝 Technical Leadership | Participated in 10+ technical events · Led 5+ collaborative software projects |
+| 📄 Research Publication | Accepted at IEEE CVMI 2026 — *Psychoacoustic Audio-in-Image Steganography via Spatial Latent Embedding* |
 
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
-### ☁️ Cloud, Tools & DevOps
+### 📊 GitHub Analytics
 
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=RuchithPraharshaBandaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchithPraharshaBandaru&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchithPraharshaBandaru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%"/>
 
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
+</div>
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+### 🏅 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RuchithPraharshaBandaru&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RuchithPraharshaBandaru&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd" width="100%"/>
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/RuchithPraharshaBandaru/RuchithPraharshaBandaru/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+Learning:
+  - Advanced RAG architectures & agentic AI systems
+  - System design for large-scale distributed applications
+
+Building:
+  - Production-grade AI/ML-powered products
+  - Scalable full-stack platforms
+
+Exploring:
+  - Multimodal AI & inference optimization
+  - Open-source contribution opportunities
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Research Collaborations
+```
+
+---
+
+### 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchithpraharsha.b23@iiits.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruchith-praharsha-bandaru)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuchithPraharshaBandaru)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering isn't just about writing code — it's about building systems that scale, adapt, and endure."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
