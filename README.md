@@ -147,28 +147,14 @@ Includes a context-aware RAG chatbot for answering policy queries and explaining
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RuchithPraharshaBandaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RuchithPraharshaBandaru&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchithPraharshaBandaru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="48%"/>
 
 </div>
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RuchithPraharshaBandaru&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
-</div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuchithPraharshaBandaru&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd" width="100%"/>
-</div>
-
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RuchithPraharshaBandaru/RuchithPraharshaBandaru/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
